@@ -5,4 +5,4 @@
 # Author: Anuksha Dutta
 
 # Task Description
-In this task 
+In this task with the help of K-means clustering, I tried to predict the optimum number of clusters and represent it visually from the given ‘Iris’ dataset.
